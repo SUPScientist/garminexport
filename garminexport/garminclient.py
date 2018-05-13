@@ -163,7 +163,7 @@ class GarminClient(object):
         batch_size = 100
         # fetch in batches since the API doesn't allow more than a certain
         # number of activities to be retrieved on every invocation
-        for start_index in xrange(0, sys.maxint, batch_size):
+        for start_index in xrange(0, 1073741823, batch_size):
             next_batch = self._fetch_activity_ids_and_ts(start_index, batch_size)
             if not next_batch:
                 break
