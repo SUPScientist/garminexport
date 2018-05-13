@@ -8,7 +8,7 @@ import logging
 import os
 import re
 import requests
-from StringIO import StringIO
+from io import BytesIO
 import sys
 import zipfile
 import dateutil
@@ -328,7 +328,7 @@ class GarminClient(object):
 
         # return the first entry from the zip archive where the filename is
         # activity_id (should be the only entry!)
-        zip = zipfile.ZipFile(StringIO(response.content), mode="r")
+        zip = zipfile.ZipFile(BytesIO(response.content), mode="r")
         for path in zip.namelist():
             fn, ext = os.path.splitext(path)
             if fn==str(activity_id):
