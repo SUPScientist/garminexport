@@ -1,0 +1,131 @@
+{
+    "activityId": 2589962257,
+    "activityName": "Nosara SUP(2)",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 87,
+        "typeKey": "stand_up_paddleboarding",
+        "parentTypeId": 4,
+        "sortOrder": 54
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 150,
+        "unitKey": "America/Costa_Rica",
+        "factor": 0.0,
+        "timeZone": "America/Costa_Rica"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 95157605,
+        "agentApplicationInstallationId": 103517418,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2018-03-30T16:45:50.0",
+        "uploadedDate": "2018-03-30T16:45:50.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showMovingSpeed": true,
+            "showSpeed": true,
+            "showTimestamp": true,
+            "showDistancePerStroke": true,
+            "showStrokeCadence": true
+        },
+        "childIds": [],
+        "sensors": [
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "softwareVersion": 4.3
+            },
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "BAROMETER",
+                "softwareVersion": 4.3
+            },
+            {
+                "sku": "006-B1619-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "GPS",
+                "softwareVersion": 3.1
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "WHR",
+                "softwareVersion": 2.74
+            },
+            {
+                "sku": "006-B0000-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "ACCELEROMETER",
+                "softwareVersion": 0.0
+            }
+        ],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 4,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "manualActivity": false,
+        "personalRecord": false,
+        "gcj02": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2018-03-25T16:04:45.0",
+        "startTimeGMT": "2018-03-25T22:04:45.0",
+        "startLatitude": 9.941428089514375,
+        "startLongitude": -85.66892612725496,
+        "distance": 5219.95,
+        "duration": 5333.288,
+        "movingDuration": 3304.0,
+        "elapsedDuration": 5333.288,
+        "averageSpeed": 0.9789999723434448,
+        "averageMovingSpeed": 1.5798880736417977,
+        "maxSpeed": 12.090999603271486,
+        "calories": 578.9948496665887,
+        "averageHR": 104.0,
+        "maxHR": 143.0,
+        "totalNumberOfStrokes": 2110,
+        "averageStrokeDistance": 4.050000190734863,
+        "averageStrokeCadence": 31.0,
+        "maxStrokeCadence": 69.0,
+        "endLatitude": 9.940300052985549,
+        "endLongitude": -85.66894507035613
+    },
+    "locationName": "Nosara"
+}

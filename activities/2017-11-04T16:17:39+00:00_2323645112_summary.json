@@ -1,0 +1,125 @@
+{
+    "activityId": 2323645112,
+    "activityName": "San Diego Strength",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 13,
+        "typeKey": "strength_training",
+        "parentTypeId": 29,
+        "sortOrder": 22
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 121,
+        "unitKey": "America/Los_Angeles",
+        "factor": 0.0,
+        "timeZone": "America/Los_Angeles"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 83079212,
+        "agentApplicationInstallationId": 89254911,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2017-11-09T14:40:51.0",
+        "uploadedDate": "2017-11-09T14:40:51.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showElevation": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showMovingSpeed": true,
+            "showSpeed": true,
+            "showTimestamp": true
+        },
+        "childIds": [],
+        "sensors": [
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "softwareVersion": 4.0
+            },
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "BAROMETER",
+                "softwareVersion": 4.0
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "WHR",
+                "softwareVersion": 2.74
+            },
+            {
+                "sku": "006-B1619-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "GPS",
+                "softwareVersion": 3.1
+            }
+        ],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 1,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "manualActivity": false,
+        "personalRecord": false,
+        "gcj02": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2017-11-04T09:17:39.0",
+        "startTimeGMT": "2017-11-04T16:17:39.0",
+        "startLatitude": 32.79943082481623,
+        "startLongitude": -117.2444512322545,
+        "distance": 1173.35,
+        "duration": 2094.639,
+        "movingDuration": 581.0,
+        "elapsedDuration": 2094.639,
+        "elevationGain": 6.0,
+        "elevationLoss": 7.0,
+        "maxElevation": 296.6,
+        "minElevation": 291.6,
+        "averageSpeed": 0.5600000023841858,
+        "averageMovingSpeed": 2.0195352419723536,
+        "maxSpeed": 4.0960001945495605,
+        "calories": 0.0,
+        "averageHR": 134.0,
+        "maxHR": 178.0,
+        "endLatitude": 32.79938304796815,
+        "endLongitude": -117.24439591169357,
+        "maxVerticalSpeed": 4.0
+    },
+    "locationName": "San Diego"
+}

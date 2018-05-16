@@ -1,0 +1,131 @@
+{
+    "activityId": 2633650489,
+    "activityName": "San Diego County SUP(2)",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 87,
+        "typeKey": "stand_up_paddleboarding",
+        "parentTypeId": 4,
+        "sortOrder": 54
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 121,
+        "unitKey": "America/Los_Angeles",
+        "factor": 0.0,
+        "timeZone": "America/Los_Angeles"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 95157605,
+        "agentApplicationInstallationId": 104761492,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2018-04-18T12:06:01.0",
+        "uploadedDate": "2018-04-18T12:06:01.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showMovingSpeed": true,
+            "showSpeed": true,
+            "showTimestamp": true,
+            "showDistancePerStroke": true,
+            "showStrokeCadence": true
+        },
+        "childIds": [],
+        "sensors": [
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "softwareVersion": 4.3
+            },
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "BAROMETER",
+                "softwareVersion": 4.3
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "WHR",
+                "softwareVersion": 2.74
+            },
+            {
+                "sku": "006-B0000-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "ACCELEROMETER",
+                "softwareVersion": 0.0
+            },
+            {
+                "sku": "006-B1619-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "GPS",
+                "softwareVersion": 3.1
+            }
+        ],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 2,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "manualActivity": false,
+        "personalRecord": false,
+        "gcj02": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2018-04-18T09:00:46.0",
+        "startTimeGMT": "2018-04-18T16:00:46.0",
+        "startLatitude": 32.86700983531773,
+        "startLongitude": -117.25606595166028,
+        "distance": 2226.63,
+        "duration": 2982.292,
+        "movingDuration": 1019.0,
+        "elapsedDuration": 2982.292,
+        "averageSpeed": 0.746999979019165,
+        "averageMovingSpeed": 2.185112740738469,
+        "maxSpeed": 13.498999595642092,
+        "calories": 374.9385444460886,
+        "averageHR": 111.0,
+        "maxHR": 152.0,
+        "totalNumberOfStrokes": 1295,
+        "averageStrokeDistance": 3.740000009536743,
+        "averageStrokeCadence": 34.0,
+        "maxStrokeCadence": 89.0,
+        "endLatitude": 32.86724142730236,
+        "endLongitude": -117.25430239923298
+    },
+    "locationName": "San Diego County"
+}

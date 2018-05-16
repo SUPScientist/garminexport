@@ -1,0 +1,131 @@
+{
+    "activityId": 1972350060,
+    "activityName": "La Jolla SUP(2)",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 87,
+        "typeKey": "stand_up_paddleboarding",
+        "parentTypeId": 4,
+        "sortOrder": 54
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 180,
+        "unitKey": "Pacific/Pitcairn",
+        "factor": 0.0,
+        "timeZone": "Pacific/Pitcairn"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 83079212,
+        "agentApplicationInstallationId": 66470751,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2017-09-11T17:58:55.0",
+        "uploadedDate": "2017-09-11T17:58:55.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showMovingSpeed": true,
+            "showSpeed": true,
+            "showTimestamp": true,
+            "showDistancePerStroke": true,
+            "showStrokeCadence": true
+        },
+        "childIds": [],
+        "sensors": [
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "softwareVersion": 4.0
+            },
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "BAROMETER",
+                "softwareVersion": 4.0
+            },
+            {
+                "sku": "006-B1619-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "GPS",
+                "softwareVersion": 3.0
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "WHR",
+                "softwareVersion": 2.74
+            },
+            {
+                "sku": "006-B0000-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "ACCELEROMETER",
+                "softwareVersion": 0.0
+            }
+        ],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 3,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "manualActivity": false,
+        "personalRecord": false,
+        "gcj02": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2017-09-08T07:40:16.0",
+        "startTimeGMT": "2017-09-08T15:40:16.0",
+        "startLatitude": 32.86689600907266,
+        "startLongitude": -117.2544171474874,
+        "distance": 2811.11,
+        "duration": 2120.284,
+        "movingDuration": 1413.0,
+        "elapsedDuration": 2120.284,
+        "averageSpeed": 1.3259999752044678,
+        "averageMovingSpeed": 1.989462213320506,
+        "maxSpeed": 7.847000122070313,
+        "calories": 0.0,
+        "averageHR": 118.0,
+        "maxHR": 161.0,
+        "totalNumberOfStrokes": 878,
+        "averageStrokeDistance": 3.430000066757202,
+        "averageStrokeCadence": 34.0,
+        "maxStrokeCadence": 75.0,
+        "endLatitude": 32.86647859029472,
+        "endLongitude": -117.25427306257188
+    },
+    "locationName": "La Jolla"
+}

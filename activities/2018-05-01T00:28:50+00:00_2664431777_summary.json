@@ -1,0 +1,131 @@
+{
+    "activityId": 2664431777,
+    "activityName": "San Diego SUP(2)",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 87,
+        "typeKey": "stand_up_paddleboarding",
+        "parentTypeId": 4,
+        "sortOrder": 54
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 121,
+        "unitKey": "America/Los_Angeles",
+        "factor": 0.0,
+        "timeZone": "America/Los_Angeles"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 105926026,
+        "agentApplicationInstallationId": 105643573,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2018-04-30T22:48:34.0",
+        "uploadedDate": "2018-04-30T22:48:34.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showMovingSpeed": true,
+            "showSpeed": true,
+            "showTimestamp": true,
+            "showDistancePerStroke": true,
+            "showStrokeCadence": true
+        },
+        "childIds": [],
+        "sensors": [
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "softwareVersion": 4.4
+            },
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "BAROMETER",
+                "softwareVersion": 4.4
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "WHR",
+                "softwareVersion": 2.74
+            },
+            {
+                "sku": "006-B0000-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "ACCELEROMETER",
+                "softwareVersion": 0.0
+            },
+            {
+                "sku": "006-B1619-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "GPS",
+                "softwareVersion": 3.2
+            }
+        ],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 8,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "personalRecord": false,
+        "manualActivity": false,
+        "gcj02": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2018-04-30T17:28:50.0",
+        "startTimeGMT": "2018-05-01T00:28:50.0",
+        "startLatitude": 32.866694843396544,
+        "startLongitude": -117.25441798567772,
+        "distance": 9575.06,
+        "duration": 4335.464,
+        "movingDuration": 1489.0,
+        "elapsedDuration": 4335.464,
+        "averageSpeed": 2.2090001106262207,
+        "averageMovingSpeed": 6.4305302688465416,
+        "maxSpeed": 29.65399932861328,
+        "calories": 520.9998997618151,
+        "averageHR": 113.0,
+        "maxHR": 156.0,
+        "totalNumberOfStrokes": 1769,
+        "averageStrokeDistance": 5.25,
+        "averageStrokeCadence": 35.0,
+        "maxStrokeCadence": 87.0,
+        "endLatitude": 32.8672618791461,
+        "endLongitude": -117.25437490269542
+    },
+    "locationName": "San Diego"
+}

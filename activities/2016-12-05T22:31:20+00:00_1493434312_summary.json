@@ -1,0 +1,123 @@
+{
+    "activityId": 1493434312,
+    "activityName": "Berkeley Running",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 1,
+        "typeKey": "running",
+        "parentTypeId": 17,
+        "sortOrder": 3
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 121,
+        "unitKey": "America/Los_Angeles",
+        "factor": 0.0,
+        "timeZone": "America/Los_Angeles"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 61441882,
+        "agentApplicationInstallationId": 63249569,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 2,
+            "formatKey": "gpx"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2016-12-23T15:31:46.0",
+        "uploadedDate": "2016-12-23T15:31:46.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showElevation": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showMovingSpeed": true,
+            "showRunCadence": true,
+            "showSpeed": true,
+            "showTimestamp": true
+        },
+        "childIds": [],
+        "sensors": [
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL"
+            },
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "BAROMETER"
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "ACCELEROMETER"
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "WHR"
+            },
+            {
+                "sku": "006-B1619-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "GPS"
+            }
+        ],
+        "activityImages": [],
+        "manufacturer": "",
+        "diveNumber": null,
+        "lapCount": 6,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "manualActivity": false,
+        "personalRecord": false,
+        "gcj02": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2016-12-05T14:31:20.0",
+        "startTimeGMT": "2016-12-05T22:31:20.0",
+        "distance": 8727.2,
+        "duration": 3136.848,
+        "movingDuration": 3106.0,
+        "elapsedDuration": 3136.848,
+        "elevationGain": 355.0,
+        "elevationLoss": 357.0,
+        "maxElevation": 270.0,
+        "minElevation": -22.8,
+        "averageSpeed": 2.7820000648498535,
+        "averageMovingSpeed": 2.809787570931262,
+        "maxSpeed": 4.179999828338623,
+        "calories": 747.0131407487315,
+        "averageHR": 150.0,
+        "maxHR": 173.0,
+        "averageRunCadence": 149.171875,
+        "maxRunCadence": 249.0,
+        "strideLength": 111.90404342199416
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "activityId": 1448707262,
+    "activityName": "Strength Training",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 13,
+        "typeKey": "strength_training",
+        "parentTypeId": 29,
+        "sortOrder": 22
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 121,
+        "unitKey": "America/Los_Angeles",
+        "factor": 0.0,
+        "timeZone": "America/Los_Angeles"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 61441882,
+        "agentApplicationInstallationId": 60068612,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 2,
+            "formatKey": "gpx"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2016-11-15T12:40:25.0",
+        "uploadedDate": "2016-11-15T12:40:25.0",
+        "videoUrl": null,
+        "hasPolyline": false,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showElevation": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showTimestamp": true
+        },
+        "childIds": [],
+        "sensors": [
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL"
+            },
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "BAROMETER"
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "WHR"
+            }
+        ],
+        "activityImages": [],
+        "manufacturer": "",
+        "diveNumber": null,
+        "lapCount": 1,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "personalRecord": false,
+        "manualActivity": false,
+        "gcj02": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2016-11-08T18:19:15.0",
+        "startTimeGMT": "2016-11-09T02:19:15.0",
+        "distance": 0.0,
+        "duration": 6519.795,
+        "movingDuration": 0.0,
+        "elapsedDuration": 6519.795,
+        "elevationGain": 0.0,
+        "elevationLoss": 0.0,
+        "maxElevation": 10.4,
+        "minElevation": -4.8,
+        "averageSpeed": 0.0,
+        "calories": 774.9366351473263,
+        "averageHR": 111.0,
+        "maxHR": 165.0
+    }
+}

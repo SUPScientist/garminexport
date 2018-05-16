@@ -1,0 +1,119 @@
+{
+    "activityId": 1545618542,
+    "activityName": "La Jolla Cycling",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 2,
+        "typeKey": "cycling",
+        "parentTypeId": 17,
+        "sortOrder": 8
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 121,
+        "unitKey": "America/Los_Angeles",
+        "factor": 0.0,
+        "timeZone": "America/Los_Angeles"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 61441882,
+        "agentApplicationInstallationId": 66470751,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 2,
+            "formatKey": "gpx"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2017-01-27T18:15:22.0",
+        "uploadedDate": "2017-01-27T18:15:22.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showElevation": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showMovingSpeed": true,
+            "showSpeed": true,
+            "showTimestamp": true
+        },
+        "childIds": [],
+        "sensors": [
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "softwareVersion": 3.3
+            },
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "BAROMETER",
+                "softwareVersion": 3.3
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "WHR",
+                "softwareVersion": 2.74
+            },
+            {
+                "sku": "006-B1619-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "GPS",
+                "softwareVersion": 3.0
+            }
+        ],
+        "activityImages": [],
+        "manufacturer": "",
+        "diveNumber": null,
+        "lapCount": 1,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "manualActivity": false,
+        "personalRecord": false,
+        "gcj02": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2017-01-25T16:58:31.0",
+        "startTimeGMT": "2017-01-26T00:58:31.0",
+        "distance": 5979.64,
+        "duration": 1009.488,
+        "movingDuration": 869.0,
+        "elapsedDuration": 1009.488,
+        "elevationGain": 64.0,
+        "elevationLoss": 95.0,
+        "maxElevation": 106.6,
+        "minElevation": 14.0,
+        "averageSpeed": 5.922999858856201,
+        "averageMovingSpeed": 6.881058845476122,
+        "maxSpeed": 11.270999908447266,
+        "calories": 222.9106304981838,
+        "averageHR": 137.0,
+        "maxHR": 151.0
+    }
+}

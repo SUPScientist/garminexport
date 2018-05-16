@@ -1,0 +1,121 @@
+{
+    "activityId": 1431743281,
+    "activityName": "Half Moon Bay Stand Up Paddleboarding",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 87,
+        "typeKey": "stand_up_paddleboarding",
+        "parentTypeId": 4,
+        "sortOrder": 54
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 180,
+        "unitKey": "Pacific/Pitcairn",
+        "factor": 0.0,
+        "timeZone": "Pacific/Pitcairn"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 55703699,
+        "agentApplicationInstallationId": 55228362,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 2,
+            "formatKey": "gpx"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2016-11-02T13:38:52.0",
+        "uploadedDate": "2016-11-02T13:38:52.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showMovingSpeed": true,
+            "showSpeed": true,
+            "showTimestamp": true,
+            "showDistancePerStroke": true,
+            "showStrokeCadence": true
+        },
+        "childIds": [],
+        "sensors": [
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL"
+            },
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "BAROMETER"
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "WHR"
+            },
+            {
+                "sku": "006-B0000-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "ACCELEROMETER"
+            },
+            {
+                "sku": "006-B1619-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "GPS"
+            }
+        ],
+        "activityImages": [],
+        "manufacturer": "",
+        "diveNumber": null,
+        "lapCount": 1,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "manualActivity": false,
+        "personalRecord": false,
+        "gcj02": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2016-10-29T12:01:14.0",
+        "startTimeGMT": "2016-10-29T20:01:14.0",
+        "distance": 1358.51,
+        "duration": 3134.975,
+        "movingDuration": 830.0,
+        "elapsedDuration": 3293.563,
+        "averageSpeed": 0.43299999833106995,
+        "averageMovingSpeed": 1.6367590479103915,
+        "maxSpeed": 3.806999921798706,
+        "calories": 352.02695929852365,
+        "averageHR": 106.0,
+        "maxHR": 151.0,
+        "totalNumberOfStrokes": 1224,
+        "averageStrokeDistance": 3.0399999618530273,
+        "averageStrokeCadence": 36.0,
+        "maxStrokeCadence": 89.0
+    }
+}

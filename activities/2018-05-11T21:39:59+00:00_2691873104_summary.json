@@ -1,0 +1,131 @@
+{
+    "activityId": 2691873104,
+    "activityName": "Ocean City SUP(2)",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 87,
+        "typeKey": "stand_up_paddleboarding",
+        "parentTypeId": 4,
+        "sortOrder": 54
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 149,
+        "unitKey": "America/New_York",
+        "factor": 0.0,
+        "timeZone": "America/New_York"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 105926026,
+        "agentApplicationInstallationId": 106897366,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2018-05-11T17:34:43.0",
+        "uploadedDate": "2018-05-11T17:34:43.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showMovingSpeed": true,
+            "showSpeed": true,
+            "showTimestamp": true,
+            "showDistancePerStroke": true,
+            "showStrokeCadence": true
+        },
+        "childIds": [],
+        "sensors": [
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "softwareVersion": 4.4
+            },
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "BAROMETER",
+                "softwareVersion": 4.4
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "WHR",
+                "softwareVersion": 2.74
+            },
+            {
+                "sku": "006-B0000-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "ACCELEROMETER",
+                "softwareVersion": 0.0
+            },
+            {
+                "sku": "006-B1619-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "GPS",
+                "softwareVersion": 3.3
+            }
+        ],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 4,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "personalRecord": false,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "manualActivity": false,
+        "gcj02": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2018-05-11T17:39:59.0",
+        "startTimeGMT": "2018-05-11T21:39:59.0",
+        "startLatitude": 39.28423614241183,
+        "startLongitude": -74.55526390112936,
+        "distance": 4012.78,
+        "duration": 2737.03,
+        "movingDuration": 2124.0,
+        "elapsedDuration": 2737.03,
+        "averageSpeed": 1.465999960899353,
+        "averageMovingSpeed": 1.8892561343205627,
+        "maxSpeed": 6.3979997634887695,
+        "calories": 345.10575128519673,
+        "averageHR": 113.0,
+        "maxHR": 144.0,
+        "totalNumberOfStrokes": 1262,
+        "averageStrokeDistance": 3.700000047683716,
+        "averageStrokeCadence": 37.0,
+        "maxStrokeCadence": 79.0,
+        "endLatitude": 39.28241215646267,
+        "endLongitude": -74.5569717977196
+    },
+    "locationName": "Ocean City"
+}

@@ -1,0 +1,130 @@
+{
+    "activityId": 2599606461,
+    "activityName": "San Diego Cycling",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 2,
+        "typeKey": "cycling",
+        "parentTypeId": 17,
+        "sortOrder": 8
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 121,
+        "unitKey": "America/Los_Angeles",
+        "factor": 0.0,
+        "timeZone": "America/Los_Angeles"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 95157605,
+        "agentApplicationInstallationId": 103517418,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2018-04-03T22:29:06.0",
+        "uploadedDate": "2018-04-03T22:29:06.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showElevation": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showMovingSpeed": true,
+            "showSpeed": true,
+            "showTimestamp": true
+        },
+        "childIds": [],
+        "sensors": [
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "softwareVersion": 4.3
+            },
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "BAROMETER",
+                "softwareVersion": 4.3
+            },
+            {
+                "sku": "006-B1619-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "GPS",
+                "softwareVersion": 3.1
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "BLUETOOTH_LOW_ENERGY_CHIPSET",
+                "softwareVersion": 0.0
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "WHR",
+                "softwareVersion": 2.74
+            }
+        ],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 2,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "personalRecord": false,
+        "manualActivity": false,
+        "gcj02": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2018-04-03T19:29:43.0",
+        "startTimeGMT": "2018-04-04T02:29:43.0",
+        "startLatitude": 32.87051087245345,
+        "startLongitude": -117.25196124985814,
+        "distance": 12235.59,
+        "duration": 3510.608,
+        "movingDuration": 1914.0,
+        "elapsedDuration": 3510.608,
+        "elevationGain": 67.0,
+        "elevationLoss": 128.0,
+        "maxElevation": 96.2,
+        "minElevation": -29.8,
+        "averageSpeed": 3.484999895095825,
+        "averageMovingSpeed": 6.39268016914838,
+        "maxSpeed": 11.281000137329102,
+        "calories": 603.0997465405893,
+        "averageHR": 129.0,
+        "maxHR": 153.0,
+        "endLatitude": 32.79576734639704,
+        "endLongitude": -117.2311354894191,
+        "maxVerticalSpeed": 0.5999984741210938
+    },
+    "locationName": "San Diego"
+}

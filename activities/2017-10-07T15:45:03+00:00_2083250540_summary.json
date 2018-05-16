@@ -1,0 +1,134 @@
+{
+    "activityId": 2083250540,
+    "activityName": "San Diego Running",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 1,
+        "typeKey": "running",
+        "parentTypeId": 17,
+        "sortOrder": 3
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 121,
+        "unitKey": "America/Los_Angeles",
+        "factor": 0.0,
+        "timeZone": "America/Los_Angeles"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 83079212,
+        "agentApplicationInstallationId": 66470751,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2017-10-10T15:30:20.0",
+        "uploadedDate": "2017-10-10T15:30:20.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showElevation": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showMovingSpeed": true,
+            "showRunCadence": true,
+            "showSpeed": true,
+            "showTimestamp": true
+        },
+        "childIds": [],
+        "sensors": [
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "softwareVersion": 4.0
+            },
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "BAROMETER",
+                "softwareVersion": 4.0
+            },
+            {
+                "sku": "006-B1619-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "GPS",
+                "softwareVersion": 3.0
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "ACCELEROMETER",
+                "softwareVersion": 558.28
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "WHR",
+                "softwareVersion": 2.74
+            }
+        ],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 1,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "manualActivity": false,
+        "gcj02": false,
+        "personalRecord": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2017-10-07T08:45:03.0",
+        "startTimeGMT": "2017-10-07T15:45:03.0",
+        "startLatitude": 32.79604730196297,
+        "startLongitude": -117.23113498650491,
+        "distance": 1528.48,
+        "duration": 516.143,
+        "movingDuration": 485.0,
+        "elapsedDuration": 516.143,
+        "elevationGain": 14.0,
+        "elevationLoss": 2.0,
+        "maxElevation": 22.6,
+        "minElevation": 7.4,
+        "averageSpeed": 2.9609999656677246,
+        "averageMovingSpeed": 3.1515051143685566,
+        "maxSpeed": 3.4709999561309814,
+        "calories": 0.0,
+        "averageHR": 160.0,
+        "maxHR": 172.0,
+        "averageRunCadence": 149.671875,
+        "maxRunCadence": 176.0,
+        "strideLength": 118.71367776259557,
+        "endLatitude": 32.7992594987154,
+        "endLongitude": -117.24276202730834,
+        "maxVerticalSpeed": 1.0
+    },
+    "locationName": "San Diego"
+}

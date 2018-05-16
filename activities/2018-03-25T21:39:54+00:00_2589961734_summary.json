@@ -1,0 +1,130 @@
+{
+    "activityId": 2589961734,
+    "activityName": "Nosara Walking",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 9,
+        "typeKey": "walking",
+        "parentTypeId": 17,
+        "sortOrder": 27
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 150,
+        "unitKey": "America/Costa_Rica",
+        "factor": 0.0,
+        "timeZone": "America/Costa_Rica"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 95157605,
+        "agentApplicationInstallationId": 103517418,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2018-03-30T16:45:25.0",
+        "uploadedDate": "2018-03-30T16:45:25.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showElevation": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showMovingSpeed": true,
+            "showSpeed": true,
+            "showTimestamp": true
+        },
+        "childIds": [],
+        "sensors": [
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "softwareVersion": 4.3
+            },
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "BAROMETER",
+                "softwareVersion": 4.3
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "ACCELEROMETER",
+                "softwareVersion": 561.24
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "WHR",
+                "softwareVersion": 2.74
+            },
+            {
+                "sku": "006-B1619-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "GPS",
+                "softwareVersion": 3.1
+            }
+        ],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 1,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "manualActivity": false,
+        "personalRecord": false,
+        "gcj02": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2018-03-25T15:39:54.0",
+        "startTimeGMT": "2018-03-25T21:39:54.0",
+        "startLatitude": 9.938287725672126,
+        "startLongitude": -85.66538334824145,
+        "distance": 698.31,
+        "duration": 583.11,
+        "movingDuration": 581.0,
+        "elapsedDuration": 583.11,
+        "elevationGain": 0.0,
+        "elevationLoss": 2.0,
+        "maxElevation": 38.4,
+        "minElevation": 35.0,
+        "averageSpeed": 1.1979999542236328,
+        "averageMovingSpeed": 1.2019104949373387,
+        "maxSpeed": 1.5019999742507935,
+        "calories": 59.90424866707081,
+        "averageHR": 107.0,
+        "maxHR": 128.0,
+        "endLatitude": 9.941642163321376,
+        "endLongitude": -85.66844986751676,
+        "maxVerticalSpeed": 0.20000076293945312
+    },
+    "locationName": "Nosara"
+}

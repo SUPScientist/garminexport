@@ -1,0 +1,123 @@
+{
+    "activityId": 1431743174,
+    "activityName": "Albany Running",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 1,
+        "typeKey": "running",
+        "parentTypeId": 17,
+        "sortOrder": 3
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 121,
+        "unitKey": "America/Los_Angeles",
+        "factor": 0.0,
+        "timeZone": "America/Los_Angeles"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 55703699,
+        "agentApplicationInstallationId": 55228362,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 2,
+            "formatKey": "gpx"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2016-11-02T13:38:46.0",
+        "uploadedDate": "2016-11-02T13:38:46.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showElevation": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showMovingSpeed": true,
+            "showRunCadence": true,
+            "showSpeed": true,
+            "showTimestamp": true
+        },
+        "childIds": [],
+        "sensors": [
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL"
+            },
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "BAROMETER"
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "ACCELEROMETER"
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "WHR"
+            },
+            {
+                "sku": "006-B1619-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "GPS"
+            }
+        ],
+        "activityImages": [],
+        "manufacturer": "",
+        "diveNumber": null,
+        "lapCount": 6,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "personalRecord": false,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "manualActivity": false,
+        "gcj02": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2016-10-21T18:21:13.0",
+        "startTimeGMT": "2016-10-22T01:21:13.0",
+        "distance": 9280.57,
+        "duration": 4477.228,
+        "movingDuration": 4216.0,
+        "elapsedDuration": 4477.228,
+        "elevationGain": 308.0,
+        "elevationLoss": 307.0,
+        "maxElevation": 294.0,
+        "minElevation": -8.0,
+        "averageSpeed": 2.072999954223633,
+        "averageMovingSpeed": 2.201273793287476,
+        "maxSpeed": 4.432000160217285,
+        "calories": 815.031909155565,
+        "averageHR": 141.0,
+        "maxHR": 178.0,
+        "averageRunCadence": 119.8125,
+        "maxRunCadence": 248.0,
+        "strideLength": 103.80411540294283
+    }
+}

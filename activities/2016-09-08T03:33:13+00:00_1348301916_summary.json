@@ -1,0 +1,92 @@
+{
+    "activityId": 1348301916,
+    "activityName": "Strength Training",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 13,
+        "typeKey": "strength_training",
+        "parentTypeId": 29,
+        "sortOrder": 22
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 121,
+        "unitKey": "America/Los_Angeles",
+        "factor": 0.0,
+        "timeZone": "America/Los_Angeles"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 55703699,
+        "agentApplicationInstallationId": 54815885,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 2,
+            "formatKey": "gpx"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2016-09-09T05:45:36.0",
+        "uploadedDate": "2016-09-09T05:45:36.0",
+        "videoUrl": null,
+        "hasPolyline": false,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showElevation": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showTimestamp": true
+        },
+        "childIds": [],
+        "sensors": null,
+        "activityImages": [],
+        "manufacturer": "",
+        "diveNumber": null,
+        "lapCount": 1,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "personalRecord": false,
+        "manualActivity": false,
+        "gcj02": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2016-09-07T20:33:13.0",
+        "startTimeGMT": "2016-09-08T03:33:13.0",
+        "distance": 0.0,
+        "duration": 294.1,
+        "movingDuration": 0.0,
+        "elapsedDuration": 294.1,
+        "elevationGain": 0.0,
+        "elevationLoss": 0.0,
+        "maxElevation": -0.2,
+        "minElevation": -0.2,
+        "averageSpeed": 0.0,
+        "calories": 64.91615791810064,
+        "averageHR": 139.0,
+        "maxHR": 163.0
+    }
+}

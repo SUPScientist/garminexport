@@ -1,0 +1,131 @@
+{
+    "activityId": 1944730642,
+    "activityName": "Dana Point SUP(2)",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 87,
+        "typeKey": "stand_up_paddleboarding",
+        "parentTypeId": 4,
+        "sortOrder": 54
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 121,
+        "unitKey": "America/Los_Angeles",
+        "factor": 0.0,
+        "timeZone": "America/Los_Angeles"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 78508725,
+        "agentApplicationInstallationId": 66470751,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2017-08-28T14:42:01.0",
+        "uploadedDate": "2017-08-28T14:42:01.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showMovingSpeed": true,
+            "showSpeed": true,
+            "showTimestamp": true,
+            "showDistancePerStroke": true,
+            "showStrokeCadence": true
+        },
+        "childIds": [],
+        "sensors": [
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "softwareVersion": 3.9
+            },
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "BAROMETER",
+                "softwareVersion": 3.9
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "WHR",
+                "softwareVersion": 2.74
+            },
+            {
+                "sku": "006-B0000-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "ACCELEROMETER",
+                "softwareVersion": 0.0
+            },
+            {
+                "sku": "006-B1619-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "GPS",
+                "softwareVersion": 3.0
+            }
+        ],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 3,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "manualActivity": false,
+        "gcj02": false,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "personalRecord": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2017-08-20T07:50:49.0",
+        "startTimeGMT": "2017-08-20T14:50:49.0",
+        "startLatitude": 33.4750362765044,
+        "startLongitude": -117.72174135781825,
+        "distance": 4763.37,
+        "duration": 4061.765,
+        "movingDuration": 2415.0,
+        "elapsedDuration": 4061.765,
+        "averageSpeed": 1.1729999780654907,
+        "averageMovingSpeed": 1.9724099864130435,
+        "maxSpeed": 7.446000099182129,
+        "calories": 0.0,
+        "averageHR": 91.0,
+        "maxHR": 139.0,
+        "totalNumberOfStrokes": 1389,
+        "averageStrokeDistance": 3.309999942779541,
+        "averageStrokeCadence": 37.0,
+        "maxStrokeCadence": 87.0,
+        "endLatitude": 33.47603456117213,
+        "endLongitude": -117.72131136618555
+    },
+    "locationName": "Dana Point"
+}

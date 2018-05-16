@@ -1,0 +1,101 @@
+{
+    "activityId": 1341324491,
+    "activityName": "Albany Running",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 1,
+        "typeKey": "running",
+        "parentTypeId": 17,
+        "sortOrder": 3
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 121,
+        "unitKey": "America/Los_Angeles",
+        "factor": 0.0,
+        "timeZone": "America/Los_Angeles"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 55687541,
+        "agentApplicationInstallationId": 54815885,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 2,
+            "formatKey": "gpx"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2016-09-05T19:05:26.0",
+        "uploadedDate": "2016-09-05T19:05:26.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showElevation": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showMovingSpeed": true,
+            "showRunCadence": true,
+            "showSpeed": true,
+            "showTimestamp": true
+        },
+        "childIds": [],
+        "sensors": null,
+        "activityImages": [],
+        "manufacturer": "",
+        "diveNumber": null,
+        "lapCount": 14,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "manualActivity": false,
+        "personalRecord": false,
+        "gcj02": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2016-09-05T13:56:48.0",
+        "startTimeGMT": "2016-09-05T20:56:48.0",
+        "distance": 21097.05,
+        "duration": 8351.592,
+        "movingDuration": 8143.0,
+        "elapsedDuration": 8351.592,
+        "elevationGain": 625.0,
+        "elevationLoss": 613.0,
+        "maxElevation": 337.8,
+        "minElevation": -3.6,
+        "averageSpeed": 2.526000022888183,
+        "averageMovingSpeed": 2.590820432426624,
+        "maxSpeed": 3.742000102996826,
+        "calories": 1887.103164185374,
+        "averageHR": 157.0,
+        "maxHR": 185.0,
+        "averageRunCadence": 141.390625,
+        "maxRunCadence": 234.0,
+        "averageBikeCadence": 70.0,
+        "strideLength": 107.1971219162839
+    }
+}

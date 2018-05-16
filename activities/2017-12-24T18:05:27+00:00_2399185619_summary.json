@@ -1,0 +1,130 @@
+{
+    "activityId": 2399185619,
+    "activityName": "Harleysville Walking",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 9,
+        "typeKey": "walking",
+        "parentTypeId": 17,
+        "sortOrder": 27
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 149,
+        "unitKey": "America/New_York",
+        "factor": 0.0,
+        "timeZone": "America/New_York"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 83079212,
+        "agentApplicationInstallationId": 91337480,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2017-12-27T09:06:30.0",
+        "uploadedDate": "2017-12-27T09:06:30.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showElevation": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showMovingSpeed": true,
+            "showSpeed": true,
+            "showTimestamp": true
+        },
+        "childIds": [],
+        "sensors": [
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "softwareVersion": 4.0
+            },
+            {
+                "sku": "006-B2337-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "BAROMETER",
+                "softwareVersion": 4.0
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "ACCELEROMETER",
+                "softwareVersion": 558.28
+            },
+            {
+                "sourceType": "LOCAL",
+                "localDeviceType": "WHR",
+                "softwareVersion": 2.74
+            },
+            {
+                "sku": "006-B1619-00",
+                "sourceType": "LOCAL",
+                "localDeviceType": "GPS",
+                "softwareVersion": 3.1
+            }
+        ],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 2,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "manualActivity": false,
+        "personalRecord": false,
+        "gcj02": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2017-12-24T13:05:27.0",
+        "startTimeGMT": "2017-12-24T18:05:27.0",
+        "startLatitude": 40.252652149647474,
+        "startLongitude": -75.37175950594246,
+        "distance": 3133.89,
+        "duration": 1884.374,
+        "movingDuration": 1878.0,
+        "elapsedDuration": 1884.374,
+        "elevationGain": 33.0,
+        "elevationLoss": 26.0,
+        "maxElevation": 90.0,
+        "minElevation": 58.2,
+        "averageSpeed": 1.6629999876022339,
+        "averageMovingSpeed": 1.6687379619691827,
+        "maxSpeed": 1.996999979019165,
+        "calories": 0.0,
+        "averageHR": 108.0,
+        "maxHR": 126.0,
+        "endLatitude": 40.25533159263432,
+        "endLongitude": -75.37196964025497,
+        "maxVerticalSpeed": 0.24000015258789062
+    },
+    "locationName": "Harleysville"
+}

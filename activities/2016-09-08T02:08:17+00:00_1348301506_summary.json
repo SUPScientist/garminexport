@@ -1,0 +1,91 @@
+{
+    "activityId": 1348301506,
+    "activityName": "Indoor Rowing",
+    "userProfileId": 46285167,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 32,
+        "typeKey": "indoor_rowing",
+        "parentTypeId": 29,
+        "sortOrder": 20
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 121,
+        "unitKey": "America/Los_Angeles",
+        "factor": 0.0,
+        "timeZone": "America/Los_Angeles"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 55703699,
+        "agentApplicationInstallationId": 54815885,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 2,
+            "formatKey": "gpx"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2016-09-09T05:45:13.0",
+        "uploadedDate": "2016-09-09T05:45:13.0",
+        "videoUrl": null,
+        "hasPolyline": false,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 46285167,
+            "displayname": "SUPScientist",
+            "fullname": "SUPScientist",
+            "profileImageUrlLarge": null,
+            "profileImageUrlMedium": null,
+            "profileImageUrlSmall": null,
+            "userPro": false
+        },
+        "chartAvailability": {
+            "showDistance": true,
+            "showDuration": true,
+            "showHeartRate": true,
+            "showMovingDuration": true,
+            "showTimestamp": true,
+            "showStrokeCadence": true
+        },
+        "childIds": [],
+        "sensors": null,
+        "activityImages": [],
+        "manufacturer": "",
+        "diveNumber": null,
+        "lapCount": 1,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "favorite": false,
+        "autoCalcCalories": false,
+        "elevationCorrected": false,
+        "manualActivity": false,
+        "personalRecord": false,
+        "gcj02": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2016-09-07T19:08:17.0",
+        "startTimeGMT": "2016-09-08T02:08:17.0",
+        "distance": 0.0,
+        "duration": 479.961,
+        "movingDuration": 0.0,
+        "elapsedDuration": 479.961,
+        "averageSpeed": 0.0,
+        "calories": 83.05449615992288,
+        "averageHR": 122.0,
+        "maxHR": 142.0,
+        "totalNumberOfStrokes": 136,
+        "averageStrokeCadence": 21.0,
+        "maxStrokeCadence": 24.0
+    }
+}

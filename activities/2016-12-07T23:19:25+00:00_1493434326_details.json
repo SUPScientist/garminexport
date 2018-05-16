@@ -1,0 +1,228 @@
+{
+    "com.garmin.activity.details.json.ActivityDetails": {
+        "activityId": 1493434326,
+        "isDetailsAvailable": true,
+        "measurementCount": 15,
+        "metricsCount": 5,
+        "measurements": [
+            {
+                "metricsIndex": 12,
+                "key": "directDoubleCadence",
+                "display": "Run Cadence",
+                "unit": "stepsPerMinute",
+                "unitAbbr": "spm",
+                "unitDisplay": "Step per Minute"
+            },
+            {
+                "metricsIndex": 7,
+                "key": "directHeartRate",
+                "display": "Heart Rate",
+                "unit": "bpm",
+                "unitAbbr": "bpm",
+                "unitDisplay": "Beat per Minute"
+            },
+            {
+                "metricsIndex": 0,
+                "key": "directRunCadence",
+                "display": "Run Cadence",
+                "unit": "stepsPerMinute",
+                "unitAbbr": "spm",
+                "unitDisplay": "Step per Minute"
+            },
+            {
+                "metricsIndex": 11,
+                "key": "directPace",
+                "display": "Pace",
+                "unit": "minpermile",
+                "unitAbbr": "min/mi",
+                "unitDisplay": "Minute per Mile"
+            },
+            {
+                "metricsIndex": 9,
+                "key": "directHeartRatePercentMax",
+                "display": "Heart Rate",
+                "unit": "percentMax",
+                "unitAbbr": "% of Max",
+                "unitDisplay": "Percent of Max"
+            },
+            {
+                "metricsIndex": 1,
+                "key": "sumElapsedDuration",
+                "display": "Elapsed Time",
+                "unit": "second",
+                "unitAbbr": "sec",
+                "unitDisplay": "Second"
+            },
+            {
+                "metricsIndex": 4,
+                "key": "directFractionalCadence",
+                "display": "Fractional Cadence",
+                "unit": "rpm",
+                "unitAbbr": "rpm",
+                "unitDisplay": "Revolution per Minute"
+            },
+            {
+                "metricsIndex": 8,
+                "key": "directHeartRateZone",
+                "display": "Heart Rate",
+                "unit": "zones",
+                "unitAbbr": "z",
+                "unitDisplay": "Zone"
+            },
+            {
+                "metricsIndex": 13,
+                "key": "directElevation",
+                "display": "Elevation",
+                "unit": "foot",
+                "unitAbbr": "ft",
+                "unitDisplay": "Foot"
+            },
+            {
+                "metricsIndex": 6,
+                "key": "sumDuration",
+                "display": "Time",
+                "unit": "second",
+                "unitAbbr": "sec",
+                "unitDisplay": "Second"
+            },
+            {
+                "metricsIndex": 14,
+                "key": "directVerticalSpeed",
+                "display": "directVerticalSpeed",
+                "unit": "mps",
+                "unitAbbr": "mps",
+                "unitDisplay": "Meter per Second"
+            },
+            {
+                "metricsIndex": 10,
+                "key": "directSpeed",
+                "display": "Speed",
+                "unit": "mph",
+                "unitAbbr": "mph",
+                "unitDisplay": "Mile per Hour"
+            },
+            {
+                "metricsIndex": 3,
+                "key": "sumDistance",
+                "display": "Distance",
+                "unit": "mile",
+                "unitAbbr": "mi",
+                "unitDisplay": "Mile"
+            },
+            {
+                "metricsIndex": 2,
+                "key": "sumMovingDuration",
+                "display": "Moving Time",
+                "unit": "second",
+                "unitAbbr": "sec",
+                "unitDisplay": "Second"
+            },
+            {
+                "metricsIndex": 5,
+                "key": "directTimestamp",
+                "display": "Time of Day",
+                "unit": "gmt",
+                "unitAbbr": "Greenwich Mean Time",
+                "unitDisplay": "(GMT) Greenwich Mean Time"
+            }
+        ],
+        "metrics": [
+            {
+                "metrics": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1481152765000.0,
+                    0.0,
+                    101.0,
+                    1.2105263157894737,
+                    52.06185567010309,
+                    0.0,
+                    30.00000002755189,
+                    0.0,
+                    651.5748231742639,
+                    0.0
+                ]
+            },
+            {
+                "metrics": [
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1481152766000.0,
+                    1.0,
+                    101.0,
+                    1.2105263157894737,
+                    52.06185567010309,
+                    0.0,
+                    30.00000002755189,
+                    0.0,
+                    651.5748231742639,
+                    0.0
+                ]
+            },
+            {
+                "metrics": [
+                    58.0,
+                    6.0,
+                    0.0,
+                    0.0,
+                    0.5,
+                    1481152771000.0,
+                    6.0,
+                    98.0,
+                    1.0526315789473684,
+                    50.51546391752577,
+                    0.0,
+                    30.00000002755189,
+                    117.0,
+                    648.9501412459246,
+                    -0.1599999964237213
+                ]
+            },
+            {
+                "metrics": [
+                    53.0,
+                    12.0,
+                    6.0,
+                    0.005374860575818641,
+                    0.5,
+                    1481152777000.0,
+                    12.0,
+                    97.0,
+                    1.0,
+                    50.0,
+                    3.194344965321043,
+                    18.783193645797606,
+                    107.0,
+                    647.637775250933,
+                    -0.06700000166893005
+                ]
+            },
+            {
+                "metrics": [
+                    55.0,
+                    16.0,
+                    10.0,
+                    0.008835898519538898,
+                    0.0,
+                    1481152781000.0,
+                    16.0,
+                    97.0,
+                    1.0,
+                    50.0,
+                    3.1093414139559887,
+                    19.296690863794947,
+                    110.0,
+                    646.9816172842592,
+                    -0.05000000074505806
+                ]
+            }
+        ],
+        "detailsAvailable": true
+    }
+}
